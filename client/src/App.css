@@ -1,5 +1,6 @@
+@import '~antd/dist/antd.css';
 
-.form, .users {
+/* .form, .users {
   margin: 0px auto;
   width: 50%;
 }
@@ -17,4 +18,4 @@
 .form button {
   margin-top: 20px;
   width: 100px;
-}
+} */
